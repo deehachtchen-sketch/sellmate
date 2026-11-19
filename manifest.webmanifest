@@ -1,0 +1,11 @@
+{
+  "name": "SellMate – Verkaufsmanager",
+  "short_name": "SellMate",
+  "description": "Dein persönlicher Verkaufsmanager",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f5fb",
+  "theme_color": "#6558e8",
+  "orientation": "portrait",
+  "icons": []
+}
